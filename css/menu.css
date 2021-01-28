@@ -1,0 +1,22 @@
+
+nav{
+    background-color: palevioletred;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+.menu ul{
+    width: 10%;
+    list-style: none;
+}
+
+.menu a {
+    color: black;
+    font-family: 'Indie Flower', cursive;
+    text-decoration: none;
+}
+    
